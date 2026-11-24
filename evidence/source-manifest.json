@@ -1,0 +1,16 @@
+{
+  ".gitignore": "9b58848d6b86ddfc5d6d29f6b1bfb0e00033ee696c0bee5240189ff97cb39d49",
+  "AGENTS.md": "f2a6f3d1a876466294a528621bf505329c4fd3ac1701af1dae9ee8ee4328a1c0",
+  "CONTRIBUTING.md": "bdb967534cc379bd1980b80c04bef19f3e4700ce96691e959a3f2fabd717cf88",
+  "High-Tech & Semiconductors/README.md": "6587f9184e2c8fab90c1b4be5c3bb3c8de10a6945f08c1951346a52d25f2814f",
+  "INDUSTRY-PORTFOLIO.md": "34bc40c45251ea439544ea1513b5d2646050e79867e4c1827eb695bc55edd469",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "Media & Entertainment/README.md": "35eaf76046fd3dbbf9509eff73410646e53eb23836540736181b5562fc343338",
+  "README.md": "f55f75dbe92f0ed82747f4be3dd321faeb7351a2ddff186b781639514a2293c1",
+  "SECURITY.md": "660145df75390defa74061bdadde1c6c18d5757987e1ef9b7bef2c2d6e14af91",
+  "Software & IT Services/README.md": "566aef736cf5935a67f96d1129a6919056cbbd9db0950d54050352f3b338d43c",
+  "Telco (Telecommunications)/README.md": "d1ee371609ba206e169451d0bd8cc9d7dad9fb600a74eb8eb4643c4cfd9774a7",
+  "catalog/industry.json": "c6e399b0900c47f435b0daa2e22c055f906812ce39acdef93ca922d2e4e41cc3",
+  "tools/README.md": "693f2fb3a939f0b98d206d147ed83fa7ad53a0fe3dc52ae10a3fbfa7b8bd10c2",
+  "tools/check_catalog.py": "7622855182148aa4d09231281ee93da90973e41cc879d770e8b930ec30a4cf70"
+}

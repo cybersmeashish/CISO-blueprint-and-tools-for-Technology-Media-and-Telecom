@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-24T07:24:49.630600+00:00",
+  "repository": "CISO-blueprint-and-tools-for-Technology-Media-and-Telecom",
+  "industry": "Technology, Media & Telecom (TMT)",
+  "sector_folders": 4,
+  "folder_names": [
+    "Telco (Telecommunications)",
+    "High-Tech & Semiconductors",
+    "Software & IT Services",
+    "Media & Entertainment"
+  ],
+  "local_links_checked": 12,
+  "source_files_hashed": 14,
+  "migrations": [],
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "root_read_only": true,
+  "workspace_read_only": true,
+  "scope": "structure/link and migration byte checks; no sector-control, deployment or compliance tests"
+}

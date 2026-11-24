@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "title": "Technology, Media & Telecom (TMT)",
+  "slug": "CISO-blueprint-and-tools-for-Technology-Media-and-Telecom",
+  "container": "ciso-industry-3-dev",
+  "volume": "ciso-industry-3-workspace",
+  "sectors": [
+    {
+      "title": "Telco (Telecommunications)",
+      "folder": "Telco (Telecommunications)",
+      "scope": "Wireless carriers, broadband providers, satellite communications, and network infrastructure."
+    },
+    {
+      "title": "High-Tech & Semiconductors",
+      "folder": "High-Tech & Semiconductors",
+      "scope": "Hardware manufacturing, chipmakers, consumer electronics, and enterprise equipment."
+    },
+    {
+      "title": "Software & IT Services",
+      "folder": "Software & IT Services",
+      "scope": "SaaS, cloud computing, cybersecurity, and IT outsourcing."
+    },
+    {
+      "title": "Media & Entertainment",
+      "folder": "Media & Entertainment",
+      "scope": "Broadcasting, streaming platforms, gaming, publishing, and advertising."
+    }
+  ]
+}
